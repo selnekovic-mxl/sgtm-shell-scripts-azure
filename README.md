@@ -1,0 +1,1 @@
+# sgtm-shell-scripts-azure
