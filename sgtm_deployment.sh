@@ -92,7 +92,7 @@ az containerapp create \
   --min-replicas 0 \
   --max-replicas 1 \
   --cpu 0.25 \
-  --memory 0.25Gi \
+  --memory 0.5Gi \
   --env-vars "RUN_AS_PREVIEW_SERVER=true" "CONTAINER_CONFIG=$CONTAINER_CONFIG"
 
 # Get the preview URL:
@@ -117,7 +117,7 @@ az containerapp create \
   --min-replicas 1 \
   --max-replicas 4 \
   --cpu 0.5 \
-  --memory 0.5Gi \
+  --memory 1.0Gi \
   --env-vars \
     "GOOGLE_CLOUD_PROJECT=$RESOURCE_GROUP" \
     "PREVIEW_SERVER_URL=https://$PREVIEW_FQDN" \
