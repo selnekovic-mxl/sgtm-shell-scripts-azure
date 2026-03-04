@@ -4,5 +4,5 @@ These Bash scripts automates the deployment of a Server-side Google Tag Manager 
 
 It sets up both:
 
-Production service (-prod)
-Debug/Preview service (-preview)
+- Production service (-prod)
+- Debug/Preview service (-preview)
