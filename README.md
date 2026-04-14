@@ -35,7 +35,7 @@ After initial deployment, you may need to deploy a new revision of your sGTM con
 2. Open **Container Apps**
 3. Select your **container app** 
 
-### Options to deploy a new revision
+## Options to deploy a new revision
 
 #### Option 1: Create revision manually (recommended)
 
