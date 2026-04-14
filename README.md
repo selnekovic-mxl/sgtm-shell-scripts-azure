@@ -27,7 +27,7 @@ Run both in **Azure Cloud Shell** (Bash): [shell.azure.com](https://shell.azure.
 
 ## Updating containers (new revision)
 
-After initial deployment, you may need to deploy a new revision of your sGTM container (e.g. after config changes or updates).
+After initial deployment, you may need to deploy a new revision of your sGTM container (e.g. after sGTM docker image updates).
 
 ### Navigate to Container Apps
 
